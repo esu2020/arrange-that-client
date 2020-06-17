@@ -9,7 +9,7 @@ const mainTheme = createMuiTheme({
     overrides: {
         MuiTypography: {
             body2: {
-                fontSize: '0.75rem',
+                fontSize: '0.8rem',
                 fontWeight: '600',
             },
         },

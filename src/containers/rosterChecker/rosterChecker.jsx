@@ -65,7 +65,7 @@ class SheetView extends Component {
     generateColumnDefs = () => [
         {
             data: NAME_FIELD,
-            width: 220,
+            width: 230,
         },
         {
             data: VALIDITY_FIELD,

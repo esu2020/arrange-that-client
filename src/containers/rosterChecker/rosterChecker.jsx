@@ -39,7 +39,7 @@ const styles = theme => ({
         background: '#fafafa',
     },
     cardHeader: {
-        paddingLeft: 10,
+        paddingLeft: 50,
         paddingTop: 10,
         paddingBottom: 0,
         paddingRight: 10,
